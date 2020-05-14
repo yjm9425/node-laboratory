@@ -1,0 +1,26 @@
+{
+  "name": "laboratory",
+  "version": "1.0.0",
+  "description": "node.js laboratory",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjm9425/node-lavoratory.git"
+  },
+  "author": "yjm9425",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjm9425/node-lavoratory/issues"
+  },
+  "homepage": "https://github.com/yjm9425/node-lavoratory#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
