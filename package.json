@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yjm9425/node-lavoratory#readme",
   "dependencies": {
+    "@koa/router": "^8.0.8",
     "koa": "^2.11.0"
   },
   "devDependencies": {
